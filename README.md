@@ -1,1 +1,1 @@
-# Valheim-Shared-World
+Copy-Paste to  C:\Users\ {username} \AppData\LocalLow\IronGate\Valheim\worlds
